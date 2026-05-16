@@ -1,4 +1,4 @@
-# aggregation.py
+%%writefile aggregation.py
 import torch
 
 def aggregate(hs, msk):
